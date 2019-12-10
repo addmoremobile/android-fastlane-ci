@@ -4,4 +4,4 @@ I it based on Jan Grewes Docker image [jangrewe/gitlab-ci-android](https://githu
 
 ## Infos
 
-Fastlane version: 2.126.0
+Fastlane version: 2.137.0
